@@ -1,5 +1,8 @@
 # CHANGELOG for chef-logstash
 
+## 0.12.1
+* MINOR - redirect STDOUT to /dev/null on restart by logrotate
+
 ## 0.12.0
 * MAJOR - logstash version 1.5.4
 * MINOR - systemd improvements
